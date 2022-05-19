@@ -1,4 +1,4 @@
-/* Neonette modifications that are IWV-specific so that the mainstream Neonette deployment doesn't get bloated */
+/* Neonette modifications that are Krisp-specific so that the mainstream Neonette deployment doesn't get bloated */
 body{
 	border: outset;
 }
