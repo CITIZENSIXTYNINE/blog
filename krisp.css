@@ -7,19 +7,3 @@ i{
 	color: #00FF00;
 	text-shadow: 1px 1px #00db00;
 }
-
-/* This is only used by the Index/Apex site */
-.buttonBar{
-	display: flex;
-	flex-direction: row;
-	justify-content: center;
-	border: dashed;
-}
-
-.button{
-	padding-left: 10px;
-	padding-right: 10px;
-	max-width: 400%;
-	height: auto;
-}
-
